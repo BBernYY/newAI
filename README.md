@@ -1,7 +1,7 @@
-# name
-short desc
+# newAI
+i am making a new AI
 ## how to use
-info
+i dont know yet
 ## tips
-* tip
-* tip
+* your
+* mother
